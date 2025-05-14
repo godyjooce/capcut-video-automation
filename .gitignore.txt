@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Output folders
+audio/
+output_videos/
+photos.video/
+
+# Generated files
+coordinates.json
+used_prompts.txt
+used_photos_log.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.bak
