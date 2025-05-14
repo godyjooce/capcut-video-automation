@@ -1,8 +1,7 @@
-## 📽 Demo Video
+## 📽 Demo 
 
-[![Watch the demo](https://img.youtube.com/vi/AcoebqsatVw/0.jpg)](https://www.youtube.com/watch?v=AcoebqsatVw)
+[![Watch the demo](https://img.youtube.com/vi/AcoebqsatVw/hqdefault.jpg)](https://www.youtube.com/watch?v=AcoebqsatVw)
 
-Click the image above to watch the **godyjooce** demo video on YouTube.
 
 ## Features
 - **Text Replacement**: Automatically updates text in the CapCut timeline based on prompts from `promt.txt`.
