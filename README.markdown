@@ -1,5 +1,7 @@
 ## 📽 Demo 
 
+Click the image below to watch the demo on YouTube:
+
 [![Watch the demo](https://img.youtube.com/vi/AcoebqsatVw/hqdefault.jpg)](https://www.youtube.com/watch?v=AcoebqsatVw)
 
 
