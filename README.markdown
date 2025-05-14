@@ -1,6 +1,8 @@
-# CapCut Video Automation Script
+## 📽 Demo Video
 
-This Python script automates the creation of short videos (reels) in CapCut by replacing text, audio, and images in a predefined template (`auto.capcut`). It uses `pyautogui` for GUI automation, `pexels` API for downloading images, and supports batch processing of prompts from a text file.
+[![Watch the demo](https://img.youtube.com/vi/AcoebqsatVw/0.jpg)](https://www.youtube.com/watch?v=AcoebqsatVw)
+
+Click the image above to watch the **godyjooce** demo video on YouTube.
 
 ## Features
 - **Text Replacement**: Automatically updates text in the CapCut timeline based on prompts from `promt.txt`.
