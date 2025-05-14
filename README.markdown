@@ -1,9 +1,10 @@
-## 📽 Demo 
+## 📽 Demo
 
 Click the image below to watch the demo on YouTube:
 
-[![Watch the demo](https://img.youtube.com/vi/AcoebqsatVw/hqdefault.jpg)](https://www.youtube.com/watch?v=AcoebqsatVw)
-
+<a href="https://www.youtube.com/watch?v=AcoebqsatVw" target="_blank">
+  <img src="https://img.youtube.com/vi/AcoebqsatVw/hqdefault.jpg" alt="Demo" width="480">
+</a>
 
 ## Features
 - **Text Replacement**: Automatically updates text in the CapCut timeline based on prompts from `promt.txt`.
